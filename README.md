@@ -20,10 +20,6 @@ O projeto contém as seguintes classes e interfaces:
 
 A aplicação pode ser executada através da classe `LojaApp`. Esta classe contém um menu interativo que permite ao usuário escolher entre diferentes opções para interagir com a loja.
 
-## Contribuindo
-
-Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição antes de enviar uma pull request.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
